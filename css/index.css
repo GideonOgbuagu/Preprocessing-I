@@ -168,7 +168,7 @@ body {
 }
 .container .head-container {
   width: 100%;
-  background-color: #E9ECEF;
+  background-color: #ecebcf;
   height: 120vh;
   border-radius: 10px;
   margin-top: 3%;
@@ -217,7 +217,7 @@ body {
 .container .head-container .text2 a {
   color: white;
   text-decoration: none;
-  background-color: #808080;
+  background-color: #807f64;
   border: 2px solid white;
   padding: 2% 4%;
   border-radius: 10px;
@@ -286,7 +286,7 @@ body {
   width: 100%;
 }
 .container .third-section table tr:nth-child(even) {
-  background-color: #F2F2F2;
+  background-color: #ecebcf;
 }
 .container .third-section table tr {
   font-weight: bold;
@@ -307,7 +307,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: baseline;
-  background-color: #808080;
+  background-color: #807f64;
   padding: 2% 0;
   margin-top: 5%;
 }
